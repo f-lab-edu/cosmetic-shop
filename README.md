@@ -1,1 +1,1 @@
-# f-lab-springboot-project-template
+# Cosmetics Shop
